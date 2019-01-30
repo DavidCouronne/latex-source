@@ -1,2 +1,2 @@
 # latex-source
-source latex document test
+source latex document
